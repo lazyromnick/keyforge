@@ -4,7 +4,7 @@
  * Enables full offline use after first load.
  */
 
-const CACHE_NAME    = 'keyforge-v2';
+const CACHE_NAME    = 'keyforge-v3';
 const SHELL_ASSETS  = [
   './',
   './index.html',
